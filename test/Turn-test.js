@@ -3,10 +3,10 @@ const expect = chai.expect;
 const Turn = require('../src/Turn');
 
 describe('Turn', function () {
+    let turn;
+    beforeEach(() => turn = new Turn());
+
     it('should be a function', function () {
-
-        const turn = new Turn();
-
         expect(Turn).to.be.a('function');
     })
 })

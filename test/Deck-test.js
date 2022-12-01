@@ -1,14 +1,9 @@
 const chai = require('chai');
 const expect = chai.expect;
 const Card = require('../src/Card');
-const Turn = require('../src/Turn');
 const Deck = require('../src/Deck');
-const prototypeData = require('../src/data.js')
 
 describe('Deck', function () {
-
-    // let deck;
-    // beforeEach(() => deck = new Deck(prototypeData));
 
     const card1 = new Card(1, 'What is Robbie\'s favorite animal', ['sea otter', 'pug', 'capybara'], 'sea otter');
     const card2 = new Card(14, 'What organ is Khalid missing?', ['spleen', 'appendix', 'gallbladder'], 'gallbladder');

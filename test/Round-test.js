@@ -1,10 +1,8 @@
 const chai = require('chai');
 const expect = chai.expect;
-const prototypeData = require('../src/data.js');
 const Card = require('../src/Card');
 const Deck = require('../src/Deck');
 const Round = require('../src/Round');
-const Turn = require('../src/Turn.js');
 
 describe('Round', function () {
 

@@ -5,7 +5,7 @@ class Deck {
 
     countCards() {
         let cardCount = 0;
-        this.cards.forEach(card => cardCount++)
+        this.cards.forEach(() => cardCount++)
         return cardCount;
     }
 }

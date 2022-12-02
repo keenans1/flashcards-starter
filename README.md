@@ -1,12 +1,16 @@
 # FlashCards Starter Kit
 
-## Fork This Repo
+## Abstract
 
-On the top right corner of this page, click the **Fork** button.
+This project is a fully functional flash cards game. However, there is no UI. The entire game is played via the console.
 
-## Setup
+## Technologies Used
 
-Clone down the forked repo (from your GitHub). Since you don't want to name your project "flashcards-starter", you can use an optional argument when you run `git clone` (you replace the `[...]` with the terminal command arguments):
+Javscript, Mocha/Chai, ESLint
+
+## Install/Setup instructions
+
+-Clone down the forked repo 
 
 ```bash
 git clone [remote-address] [what you want to name the repo]
@@ -69,3 +73,5 @@ npm test
 The test results will output to the terminal.
 
 
+
+A GIF of the working application

@@ -12,28 +12,14 @@ Javscript, Mocha/Chai, ESLint
 
 -Clone down the forked repo 
 
-```bash
-git clone [remote-address] [what you want to name the repo]
-```
-
-Once you have cloned the repo, change into the directory and install the library dependencies. Run:
-
-```bash
-npm install
-```
-
-To verify that it is setup correctly, run `npm test` in your terminal. You should have 5 pending tests in your `Card` test file that show up.
-
-Running `node index.js` from the root of your project should result in the following message being displayed in your terminal: 
-
-```bash
-Your project is running...
-```
+-Once you have cloned the repo, change into the directory and install the library dependencies. Run: npm install
 
 *Note that you will not need to you run your server until you are instantiating your `Game` class in Iteration 3. Prior to that, you should be using TDD to drive your code. You should check the functionality of your application by running your tests via `npm test`.*
 
 
-## Where to Add Your Code
+## Giphy
+
+https://media.giphy.com/media/cMYoHeDt5igb7oEJ7H/giphy.gif
 
 ### JavaScript
 
@@ -71,7 +57,4 @@ npm test
 ```
 
 The test results will output to the terminal.
-
-
-
 A GIF of the working application

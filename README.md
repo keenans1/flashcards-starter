@@ -19,7 +19,9 @@ Javscript, Mocha/Chai, ESLint
 
 ## Giphy
 
-https://media.giphy.com/media/cMYoHeDt5igb7oEJ7H/giphy.gif
+
+
+![flash cards example gif](https://media.giphy.com/media/cMYoHeDt5igb7oEJ7H/giphy.gif)
 
 ### JavaScript
 
